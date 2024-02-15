@@ -1,16 +1,3 @@
-/**
-*   CS6023: GPU Programming 
-*   Assignment 1
-*   
-*   Please don't change any existing code in this file.
-*
-*   You can add your code whereever needed. Please add necessary memory APIs
-*   for your implementation. Use cudaFree() to free up memory as soon as you're
-*   done with an allocation. This will ensure that you don't run out of memory 
-*   while running large test cases. Use the minimum required memory for your 
-*   implementation. DO NOT change the kernel configuration parameters.
-*/
-
 #include <chrono>
 #include <fstream>
 #include <iostream>
